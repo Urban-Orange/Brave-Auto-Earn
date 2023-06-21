@@ -17,7 +17,7 @@ Alternatively you can try the multi os python script by having at least python v
 
 Instructions
 ----------------------------------------------
-1.) Download Brave from here :https://brave.com/download/
+1.) Download Brave from here https://brave.com/download/
 	A.) Sign up for the Brave rewards
 	B.) Click the BAT symbol at the end of the address bar and click 'rewards settings'
 	C.) Hit the radio bar and hit 'ad settings' change maximum ads to 5 or 10  (Change the script values for 10 adds an hour)
